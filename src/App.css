@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.tabledata{
+  overflow-x: scroll;
+}
+/* .name{
+  padding-right: 470px;
+} */
+/* @media screen (max-width:600px){
+
+} */
+/* .navbar-toggler {
+  margin: 7px;
+  display: block;
+  width: 22px;
+  height: 1px;
+  background-color: #cccccc;
+  border-radius: 1px;
+} */
